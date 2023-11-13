@@ -20,4 +20,6 @@ JDK Language Level - 1.8
 DS List:
 =======
 
-1. Segment Tree: https://github.com/aenlemmea/sports-prog-dsalgo/blob/main/src/main/java/ana/lemma/ds/SegmentTree.java
+[VA: VisualAlgo link for better visualization]
+
+1. Segment Tree: https://github.com/aenlemmea/sports-prog-dsalgo/blob/main/src/main/java/ana/lemma/ds/SegmentTree.java || https://visualgo.net/en/segmenttree 
